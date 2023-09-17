@@ -6,7 +6,7 @@ This project aims to compare the performance of various machine learning classif
 
 # Data Description 
 ## BRFSS Dataset:
-The BRFSS notebook primarily follows a structured approach with steps like importing libraries and dataset, data visualization, and data preprocessing. However, the notebook does not provide an explicit description of the dataset.
+The BRFSS notebook primarily follows a structured approach with steps like importing libraries and dataset, data visualization, and data preprocessing. 
 
 ## Pima Indians Dataset:
 
